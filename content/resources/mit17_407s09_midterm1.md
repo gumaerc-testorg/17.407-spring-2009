@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 70c1a229-9791-0d3a-198d-c6c439e469d7
 resourcetype: Document
 title: An Analysis of Traditional Chinese Strategic Thought
 uid: c8a61761-8499-029c-f589-06b9cc8c89a2

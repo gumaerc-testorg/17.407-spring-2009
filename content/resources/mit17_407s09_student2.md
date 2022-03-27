@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 70c1a229-9791-0d3a-198d-c6c439e469d7
 resourcetype: Document
 title: "Explaining China\u2019s Participation in Anti-Piracy Operations in the Gulf\
   \ of Aden"
