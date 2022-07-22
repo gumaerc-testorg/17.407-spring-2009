@@ -5,6 +5,7 @@ file: /courses/17-407-chinese-foreign-policy-international-relations-and-strateg
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Explaining China\u2019s Participation in Anti-Piracy Operations in the G
 uid: 5fb8470f-21d4-d7ac-b633-d9015801ae01
 ---
 Example of student work for the final essay assignment of the course.
-
