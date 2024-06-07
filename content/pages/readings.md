@@ -53,11 +53,11 @@ Collins, John. _Grand Strategy: Principles and Practices_. Annapolis, MD: Naval 
 
 Posen, Barry. "Explaining Military Doctrine." In _Sources of Military Doctrine: France, Britain, and Germany Between the World Wars_. Ithaca, NY: Cornell University Press, 1986. ISBN: 9780801494277.
 
-_U.S. Army War College Guide to Strategy_. Edited by Dr. Joseph R. Cerami and Colonel James F. Holcomb, Jr. Carlisle, PA: Strategic Studies Institute, 2001. Chapters 6, 7, and Appendix. ({{% resource_link "a663376b-51ec-4fd6-9876-7a70c79f12f5" "PDF - 2.0MB" %}})
+_U.S. Army War College Guide to Strategy_. Edited by Dr. Joseph R. Cerami and Colonel James F. Holcomb, Jr. Carlisle, PA: Strategic Studies Institute, 2001. Chapters 6, 7, and Appendix. ([PDF - 2.0MB](https://www.comw.org/qdr/fulltext/01cerami.pdf))
 
 Johnston, Alistair Iain. _Cultural Realism: Strategic Culture and Grand Strategy in Chinese History_. Princeton, NJ: Princeton University Press, 1998. Chapter 1. ISBN: 9780691002392.
 
-Gray, Colin S. "{{% resource_link "c2c8505c-9bce-4ca2-aced-78c39ef51fe1" "Strategic Culture as Context: The First Generation Of Theory Strikes Back" %}}." _Review of International Studies_ 25, no. 1 (1999): 49-69.
+Gray, Colin S. "[Strategic Culture as Context: The First Generation Of Theory Strikes Back](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=33651)." _Review of International Studies_ 25, no. 1 (1999): 49-69.
 
 Fairbank, John K. "Introduction: Varieties of the Chinese Military Experience." In _Chinese Ways in Warfare_. Written by Frank A. Kierman, Jr. and John K. Fairbanks. Cambridge, MA: Harvard University Press, 1974, pp. 1-16. ISBN: 9780674125759.
 
@@ -163,11 +163,11 @@ Mao Zedong: Thought
 
 Mao Zedong in Selected Military Writings:
 
-*   "{{% resource_link "d2a7f271-3d09-4f1b-85d0-4b25328d60f9" "Problems of Strategy in China's Revolutionary War" %}}."
-*   "{{% resource_link "dcd10512-46cc-4117-8fe4-9f98e4c799cb" "Problems of Strategy in Guerilla War Against Japan" %}}."
-*   "{{% resource_link "7adabc53-a541-4bb9-9ab1-7346f1fb833b" "On Protracted War" %}}."
-*   "{{% resource_link "ad280b0b-f29c-40b0-ab09-a2ab834dd9b2" "Problems of War and Strategy" %}}."
-*   "{{% resource_link "b0485caa-b868-4339-92cd-53862ce55cb5" "On Contradiction" %}}."
+*   "[Problems of Strategy in China's Revolutionary War](http://www.marx2mao.com/Mao/PSRW36.html)."
+*   "[Problems of Strategy in Guerilla War Against Japan](http://www.marx2mao.com/Mao/PSGW38.html)."
+*   "[On Protracted War](http://www.marx2mao.com/Mao/PW38.html)."
+*   "[Problems of War and Strategy](http://www.marx2mao.com/Mao/PWS38.html)."
+*   "[On Contradiction](http://www.marx2mao.com/Mao/OC37.html)."
 
 Starr, John Bryan. _Continuing the Revolution: The Political Thought of Mao_. Princeton, NJ: 1979, pp. 3-45. ISBN: 9780691021898.
 
@@ -187,9 +187,9 @@ Mao Zedong: Practice
 {{< tdopen >}}
 
 
-Boylan, Edward S. "{{% resource_link "9fbdea56-8ec9-4844-896b-fa67ed6f12e4" "Chinese Cultural Style of Warfare" %}}." _Comparative Strategy_ 3, no. 4 (1982): 341-364.
+Boylan, Edward S. "[Chinese Cultural Style of Warfare](http://www.informaworld.com/smpp/content~db=all~content=a782371783)." _Comparative Strategy_ 3, no. 4 (1982): 341-364.
 
-Whiting, Allen S. "{{% resource_link "cf0dfdb3-94b2-4293-b72d-2d7316570c22" "China's Use of Force, 1950-96, and Taiwan" %}}." _International Security_ 26, no. 2 (Fall 2001): 103-131.
+Whiting, Allen S. "[China's Use of Force, 1950-96, and Taiwan](https://www.researchgate.net/publication/265897108_China's_Use_of_Force_1950-96_and_Taiwan)." _International Security_ 26, no. 2 (Fall 2001): 103-131.
 
 Finkelstein, David, Michael McDevitt, and Mark Ryan. "Patterns of Chinese Warfighting." In _Chinese Warfighting: The PLA Experience Since 1949_. Armonk, NY: M.E. Shapre, Inc., 2003, pp. 3-22. ISBN: 9780765610874.
 
@@ -205,7 +205,7 @@ Scobell, Andrew. _China's Use of Military Force_. Cambridge, UK: Cambridge, Univ
 
 ### Soviet Union
 
-Goldstein, Lyle. "{{% resource_link "6ac6e6a5-7545-4227-8ee1-5d69a069340f" "Return to Zhenbao Island: Who Started Shooting and Why it Matters" %}}." _The China Quarterly_ 168, (2001): 985-997.
+Goldstein, Lyle. "[Return to Zhenbao Island: Who Started Shooting and Why it Matters](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=96239)." _The China Quarterly_ 168, (2001): 985-997.
 
 Fravel, M. Taylor. _Strong Borders, Secure Nation: Cooperation and Conflict in China's Territorial Disputes_. Princeton, NJ: Princeton University Press, 2008, Chapter 4. ISBN: 9780691136097.
 
@@ -223,15 +223,15 @@ Contemporary China: Military strategy
 {{< tdopen >}}
 
 
-Godwin, Paul. "{{% resource_link "b6da1999-b239-43f3-a8d0-f0c6b7598d0a" "From Continent to Periphery: PLA Doctrine, Strategy, and Capabilities Toward 2000" %}}." _The China Quarterly_ 146 (June 1996): 464-487.
+Godwin, Paul. "[From Continent to Periphery: PLA Doctrine, Strategy, and Capabilities Toward 2000](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=3568068)." _The China Quarterly_ 146 (June 1996): 464-487.
 
-Nan, Li. "{{% resource_link "76030b36-79ce-4808-ba4c-988eb1262e31" "The PLAs Evolving Warfighting Doctrine, Strategy and Tactics, 1985-1995: A Chinese Perspective" %}}." _The China Quarterly_ 146 (June 1996): 443-463.
+Nan, Li. "[The PLAs Evolving Warfighting Doctrine, Strategy and Tactics, 1985-1995: A Chinese Perspective](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=3568056)." _The China Quarterly_ 146 (June 1996): 443-463.
 
-Peng, Guangqian, and Yao Youzhi. {{% resource_link "d6b5c588-04bb-4424-ac0c-e439db581e2f" "The Science of Military Strategy" %}} _\[Zhanlue Xue\]_. _The China Quarterly_ 189, no. 1. (2007): 194-196. Chapters 1, 3, 9, 10, and 20-24.
+Peng, Guangqian, and Yao Youzhi. [The Science of Military Strategy](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=943272) _\[Zhanlue Xue\]_. _The China Quarterly_ 189, no. 1. (2007): 194-196. Chapters 1, 3, 9, 10, and 20-24.
 
 Wang, Houqing, and Zhang Xingye. _The Science of Campaigns \[Zhanyi Xue\]_. Washington, DC: National Defense University, 2000. Chapters 3 and 16.
 
-Jijun, Li. "Traditional Military Thinking and the Defensive Strategy of China." _Letort Paper No. 1._ United States War College, August 29, 1997. ({{% resource_link "2f6add5f-4e1f-486d-9398-feebb3b42830" "PDF" %}})
+Jijun, Li. "Traditional Military Thinking and the Defensive Strategy of China." _Letort Paper No. 1._ United States War College, August 29, 1997. ([PDF](http://www.fas.org/nuke/guide/china/doctrine/china-li.pdf))
 
 
 {{< tdclose >}}
@@ -249,9 +249,9 @@ Contemporary China: Grand strategy
 
 Goldstein, Avery. _Rising to the Challenge: China's Grand Strategy and International Security_. Palo Alto, CA: Stanford University Press, 2005. ISBN: 9780804752183.
 
-Saunders, Philip. "Chinas Global Activism: Strategy, Drivers, and Tools." _Institute for National Strategic Studies, Occasional Paper 4_. Washington, DC: National Defense University, October 2006. ({{% resource_link "a2de4476-1bd9-4e1c-872f-d9bf6522b673" "PDF - 2.0MB" %}})
+Saunders, Philip. "Chinas Global Activism: Strategy, Drivers, and Tools." _Institute for National Strategic Studies, Occasional Paper 4_. Washington, DC: National Defense University, October 2006. ([PDF - 2.0MB](http://catalogue.sipri.org/cgi-bin/koha/opac-detail.pl?biblionumber=32602))
 
-{{% resource_link "49e50a90-56f8-45d6-8b8b-efc090372b9d" "_Chinas National Defense in 2008_" %}}. State Council Information Office, 2009.
+[_Chinas National Defense in 2008_](http://www.china.org.cn/government/central_government/2009-01/20/content_17155577.htm). State Council Information Office, 2009.
 
 Sawyer, Ralph D. _The Tao of Deception: Unorthodox Warfare in Historic and Modern China_. Jackson, TN: Basic Books, 2007. pp. 375-401. ISBN: 9780465072057.
 
@@ -273,11 +273,11 @@ Johnston, Alastair Iain. _Cultural Realism: Strategic Culture and Grand Strategy
 
 Handel, Michael. _Masters of War, Sun Tzu, Clausewitz and Jomin_. London, UK: Frank Cass, 1992. ISBN: 9780714634760.
 
-Scobell, Andrew. {{% resource_link "c4dda3c2-3203-4a5c-be12-a8f5569b9764" "_China and Strategic Culture (PDF)_" %}}. Carlisle, PA: Strategic Studies Institute, May 2002, pp. 1-27.
+Scobell, Andrew. [_China and Strategic Culture (PDF)_](http://www.globalsecurity.org/military/library/report/2002/ssi_scobell.pdf). Carlisle, PA: Strategic Studies Institute, May 2002, pp. 1-27.
 
-Lantis, Jeffrey S. "{{% resource_link "ae0bb57d-faac-4f24-bb95-0fce10fdb95a" "Strategic Culture and National Security Policy" %}}." _International Studies Review_ 4, no. 3 (2002): 87-113.
+Lantis, Jeffrey S. "[Strategic Culture and National Security Policy](http://www.fb03.uni-frankfurt.de/45431305/Lantis-2002--Strategic-Culture-and-NationalSecurity-Policy.pdf)." _International Studies Review_ 4, no. 3 (2002): 87-113.
 
-Sawyer, Ralph. "{{% resource_link "2126d45d-f382-4d09-aa1a-6815e51496a9" "Chinese Warfare: The Paradox of the Unlearned Lesson" %}}." _American Diplomacy_ 4, no. 4 (1999).
+Sawyer, Ralph. "[Chinese Warfare: The Paradox of the Unlearned Lesson](http://americandiplomacy.web.unc.edu/1999/09/chinese-warfare-the-paradox-of-the-unlearned-lesson/)." _American Diplomacy_ 4, no. 4 (1999).
 
 
 {{< tdclose >}}
